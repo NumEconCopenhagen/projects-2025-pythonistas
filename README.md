@@ -1,9 +1,8 @@
-# [Group name]
+# [Pythonistas]
 
 **Group members:**
-- A
-- B
-- C
+- Ditte Engell Thomsen
+- Olivia Hartmann Nikolajsen
 
 **This repository contains:***
 
